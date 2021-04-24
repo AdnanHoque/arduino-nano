@@ -1,4 +1,4 @@
-# Arduino BLE
+# Arduino Nano 33
 
 This repository is for my own learning and reference and also future tutorial material. 
 
