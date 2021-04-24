@@ -29,7 +29,7 @@ TinyML is an exciting field that I'd like to keep exploring, hopefully anyone re
 
 # Hardware - Software 
 
-My Dev Machine - OS: Ubuntu 20.04, GPU: RTX 2060 Super 
+My Dev Machine - OS: Ubuntu 20.04, GPU: Nvidia RTX 2060 Super 
 
 Hardware Required: Arduino Nano 33 BLE - Processor: 32-bit ARM Cortex-M4 CPU @ 64 MHz
 
